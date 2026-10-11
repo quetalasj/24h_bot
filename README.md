@@ -52,11 +52,10 @@ Each user can have one active timer. Different users’ timers are independent.
    BOT_TOKEN=your_telegram_bot_token
    ```
 
-4. Install dependencies and start the bot:
+4. Start the bot:
 
    ```bash
-   pixi install
-   pixi run start
+    pixi run start
    ```
 
 Open your bot in Telegram and press **Start**. Stop the process with `Ctrl+C`.
@@ -83,11 +82,10 @@ Open your bot in Telegram and press **Start**. Stop the process with `Ctrl+C`.
    BOT_TOKEN=your_telegram_bot_token
    ```
 
-4. Install dependencies and start the bot:
+4. Start the bot:
 
    ```powershell
-   pixi install
-   pixi run start
+    pixi run start
    ```
 
 Open your bot in Telegram and press Start. Stop the process with `Ctrl+C`.
