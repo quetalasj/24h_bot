@@ -55,7 +55,7 @@ Each user can have one active timer. Different users’ timers are independent.
 4. Start the bot:
 
    ```bash
-    pixi run start
+   pixi run start
    ```
 
 Open your bot in Telegram and press **Start**. Stop the process with `Ctrl+C`.
@@ -85,7 +85,7 @@ Open your bot in Telegram and press **Start**. Stop the process with `Ctrl+C`.
 4. Start the bot:
 
    ```powershell
-    pixi run start
+   pixi run start
    ```
 
 Open your bot in Telegram and press Start. Stop the process with `Ctrl+C`.
